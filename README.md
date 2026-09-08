@@ -1,1 +1,1 @@
-Practical workshop implementing Google's PageRank algorithm in Go. It demonstrates the algorithm's mathematical formulation, the iterative computation of node importance, and the effect of parameters like the damping factor using example graphs for validation and experimentation.
+# ucv-googles-pagerank-algorithm
